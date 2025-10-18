@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: jerry-bot
+    name: Rahul-bot
     env: node
     plan: free
     buildCommand: "npm install"
